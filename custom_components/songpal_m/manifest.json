@@ -1,0 +1,9 @@
+{
+  "domain": "songpal_m",
+  "name": "songpal mod - volume decrease",
+  "documentation": "https://github.com/kodi1/songpal_m",
+  "dependencies": [],
+  "codeowners": ["@kodi1"],
+  "requirements": [],
+  "version": "0.0.1"
+}
